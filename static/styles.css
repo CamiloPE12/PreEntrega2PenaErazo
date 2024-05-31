@@ -1,0 +1,49 @@
+/* Custom styles */
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.text-center {
+    margin-bottom: 20px;
+}
+
+.promotional-text {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.heads {
+    color: black;
+}
+
+.contac {
+    color: black;
+}
+
+.nuev {
+    color: black;
+}
+
+.susc {
+    color: black;
+}
+.pol {
+    color: black;
+}
+.card-img-top {
+    height: 600px; /* Altura fija para todas las imágenes */
+    object-fit: cover; /* Ajusta la imagen para cubrir el área del contenedor */
+}
