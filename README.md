@@ -26,6 +26,22 @@ El sitio web está diseñado de manera modular, lo que facilita la adición de n
 - CSS
 - Bootstrap
 
+## Vista-1
+![image](https://github.com/CamiloPE12/PreEntrega2PenaErazo/assets/110743852/c861d594-b6a2-41ea-89bc-064868020a74)
+
+## Vista-2
+![image](https://github.com/CamiloPE12/PreEntrega2PenaErazo/assets/110743852/7f0e0e4e-5677-490a-8870-16143069dc27)
+
+## Vista-3
+![image](https://github.com/CamiloPE12/PreEntrega2PenaErazo/assets/110743852/fba4602d-e686-431e-b892-6fdcf0e6d640)
+
+## Vista-4
+![image](https://github.com/CamiloPE12/PreEntrega2PenaErazo/assets/110743852/31c67195-4b55-4157-adf2-32ce663f9673)
+
+## Vista-5
+![image](https://github.com/CamiloPE12/PreEntrega2PenaErazo/assets/110743852/4bfbeb95-c98c-40ea-93e0-18bf06b8bf06)
+
+
 ## Autor
 
 Este proyecto fue desarrollado por [Juan Camilo Peña Erazo](https://www.linkedin.com/in/juan-camilo-pe%C3%B1a-erazo-06ba36187/).
